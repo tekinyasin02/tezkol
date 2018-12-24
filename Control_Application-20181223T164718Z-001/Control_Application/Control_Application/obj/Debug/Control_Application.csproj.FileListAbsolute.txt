@@ -1,0 +1,29 @@
+C:\Users\SteveAncell\Documents\Arduino\Sketches\PC_Servo_Multi\Control_Application\Control_Application\bin\Debug\Control_Application.exe.config
+C:\Users\SteveAncell\Documents\Arduino\Sketches\PC_Servo_Multi\Control_Application\Control_Application\bin\Debug\Control_Application.exe
+C:\Users\SteveAncell\Documents\Arduino\Sketches\PC_Servo_Multi\Control_Application\Control_Application\bin\Debug\Control_Application.pdb
+C:\Users\SteveAncell\Documents\Arduino\Sketches\PC_Servo_Multi\Control_Application\Control_Application\obj\Debug\Control_Application.csprojResolveAssemblyReference.cache
+C:\Users\SteveAncell\Documents\Arduino\Sketches\PC_Servo_Multi\Control_Application\Control_Application\obj\Debug\Control_Application.Form1.resources
+C:\Users\SteveAncell\Documents\Arduino\Sketches\PC_Servo_Multi\Control_Application\Control_Application\obj\Debug\Control_Application.Properties.Resources.resources
+C:\Users\SteveAncell\Documents\Arduino\Sketches\PC_Servo_Multi\Control_Application\Control_Application\obj\Debug\Control_Application.csproj.GenerateResource.Cache
+C:\Users\SteveAncell\Documents\Arduino\Sketches\PC_Servo_Multi\Control_Application\Control_Application\obj\Debug\Control_Application.exe
+C:\Users\SteveAncell\Documents\Arduino\Sketches\PC_Servo_Multi\Control_Application\Control_Application\obj\Debug\Control_Application.pdb
+C:\Users\Yasin TEEKİN\Desktop\Control_Application-20181223T164718Z-001\Control_Application\Control_Application\bin\Debug\Control_Application.exe.config
+C:\Users\Yasin TEEKİN\Desktop\Control_Application-20181223T164718Z-001\Control_Application\Control_Application\bin\Debug\Control_Application.exe
+C:\Users\Yasin TEEKİN\Desktop\Control_Application-20181223T164718Z-001\Control_Application\Control_Application\bin\Debug\Control_Application.pdb
+C:\Users\Yasin TEEKİN\Desktop\Control_Application-20181223T164718Z-001\Control_Application\Control_Application\obj\Debug\Control_Application.csprojResolveAssemblyReference.cache
+C:\Users\Yasin TEEKİN\Desktop\Control_Application-20181223T164718Z-001\Control_Application\Control_Application\obj\Debug\Control_Application.Form1.resources
+C:\Users\Yasin TEEKİN\Desktop\Control_Application-20181223T164718Z-001\Control_Application\Control_Application\obj\Debug\Control_Application.Properties.Resources.resources
+C:\Users\Yasin TEEKİN\Desktop\Control_Application-20181223T164718Z-001\Control_Application\Control_Application\obj\Debug\Control_Application.csproj.GenerateResource.cache
+C:\Users\Yasin TEEKİN\Desktop\Control_Application-20181223T164718Z-001\Control_Application\Control_Application\obj\Debug\Control_Application.csproj.CoreCompileInputs.cache
+C:\Users\Yasin TEEKİN\Desktop\Control_Application-20181223T164718Z-001\Control_Application\Control_Application\obj\Debug\Control_Application.exe
+C:\Users\Yasin TEEKİN\Desktop\Control_Application-20181223T164718Z-001\Control_Application\Control_Application\obj\Debug\Control_Application.pdb
+C:\Users\Yasin TEEKİN\Desktop\Lisans Tezi 1\Control_Application-20181223T164718Z-001\Control_Application\Control_Application\bin\Debug\Control_Application.exe.config
+C:\Users\Yasin TEEKİN\Desktop\Lisans Tezi 1\Control_Application-20181223T164718Z-001\Control_Application\Control_Application\bin\Debug\Control_Application.exe
+C:\Users\Yasin TEEKİN\Desktop\Lisans Tezi 1\Control_Application-20181223T164718Z-001\Control_Application\Control_Application\bin\Debug\Control_Application.pdb
+C:\Users\Yasin TEEKİN\Desktop\Lisans Tezi 1\Control_Application-20181223T164718Z-001\Control_Application\Control_Application\obj\Debug\Control_Application.csprojResolveAssemblyReference.cache
+C:\Users\Yasin TEEKİN\Desktop\Lisans Tezi 1\Control_Application-20181223T164718Z-001\Control_Application\Control_Application\obj\Debug\Control_Application.Form1.resources
+C:\Users\Yasin TEEKİN\Desktop\Lisans Tezi 1\Control_Application-20181223T164718Z-001\Control_Application\Control_Application\obj\Debug\Control_Application.Properties.Resources.resources
+C:\Users\Yasin TEEKİN\Desktop\Lisans Tezi 1\Control_Application-20181223T164718Z-001\Control_Application\Control_Application\obj\Debug\Control_Application.csproj.GenerateResource.cache
+C:\Users\Yasin TEEKİN\Desktop\Lisans Tezi 1\Control_Application-20181223T164718Z-001\Control_Application\Control_Application\obj\Debug\Control_Application.csproj.CoreCompileInputs.cache
+C:\Users\Yasin TEEKİN\Desktop\Lisans Tezi 1\Control_Application-20181223T164718Z-001\Control_Application\Control_Application\obj\Debug\Control_Application.exe
+C:\Users\Yasin TEEKİN\Desktop\Lisans Tezi 1\Control_Application-20181223T164718Z-001\Control_Application\Control_Application\obj\Debug\Control_Application.pdb

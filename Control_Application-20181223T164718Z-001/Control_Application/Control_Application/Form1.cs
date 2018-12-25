@@ -2,7 +2,7 @@
 using System.Windows.Forms;
 using System.IO.Ports;
 
-namespace Control_Application
+namespace RobotKolKontrol
 {
     public partial class Form1 : Form
     {
@@ -14,9 +14,12 @@ namespace Control_Application
             KeyPreview = true;
             InitializeComponent();
             getAvilablePorts();
+
+
         }
         void getAvilablePorts()
         {
+            
             string[] ports = SerialPort.GetPortNames();
             comboBox1.Items.AddRange(ports);
         }
@@ -141,6 +144,8 @@ namespace Control_Application
                 serialPort1.BaudRate = 9600;
                 serialPort1.Open();
                 sifirla();
+                label3.Text = "Bağlantı Sağlandı.";
+                button1.Enabled = false;
             }
             catch
             {
@@ -277,7 +282,10 @@ namespace Control_Application
 
                 }
             }
-        }
+
+
+
+    }
     }
 
 
